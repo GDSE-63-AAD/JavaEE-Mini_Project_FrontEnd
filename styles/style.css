@@ -1,0 +1,17 @@
+.form-outer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.form-control{
+    margin-bottom: 30px;
+}
+#topic{
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 100px;
+}
